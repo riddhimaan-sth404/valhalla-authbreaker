@@ -83,6 +83,7 @@ Start fresh anytime:
 
 ---
 
+**🔍 Source code is available in the `source` branch for transparency and ethical review.**
 <h2 align="center"> ⚖️ LEGAL</h2>
 
 <p align="center">For educational & authorized testing only.<br>  
