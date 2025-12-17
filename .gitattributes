@@ -1,0 +1,2 @@
+*.bat linguist-vendored
+*.py linguist-language=Python
